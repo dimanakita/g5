@@ -1,0 +1,20 @@
+{
+    "name": "3rd-universe/swamp-thing-season-1-episode-3-full-tv",
+    "description": "Watch Swamp Thing Season 1 Episode 3 Online for Free Putlocker S01E03 WATCH FULL EPISODES NOW (CLICK LINK BELOW TO WATCHING)",
+	"keywords": ["Swamp Thing Season 1 Episode 3 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/cEWbyYxexS",
+            "homepage": "https://t.co/cEWbyYxexS",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
